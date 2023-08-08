@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple site that search animal from database (express.js), create random animals via Chance, and for front-end I used react.
 
-Currently, two official plugins are available:
+I implemented local storage, so even if you update this site, the last search result will be visible.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![2023-08-08 13-04-27](https://github.com/97-ozzy/serach-animal-in-farm/assets/127320788/2aade386-53e4-4e1d-af0d-91783d24c490)
